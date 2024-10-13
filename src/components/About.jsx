@@ -23,7 +23,7 @@ const About = () => {
           and modern development practices.
         </p>
         <br />
-        <p className="text-xl ">
+        <p className="text-xl md:pb-0 pb-8 ">
           In addition to my core skills, I have hands-on experience with
           Material-UI (MUI) and Supabase, which I use to create dynamic,
           scalable solutions that meet the evolving needs of clients. My focus
